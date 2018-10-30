@@ -58,3 +58,5 @@ cat /home/john/fruit/lemon
 ```text
 cat lemon
 ```
+
+下一章：[编辑文本](edit.html)

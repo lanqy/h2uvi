@@ -39,3 +39,5 @@ vi 还具有强大的搜索和替换功能。若要在打开的文件中搜索�
 ```text
 :%s/lemon/orange/
 ```
+
+下一章：[处理多个文件](multiple.html)
