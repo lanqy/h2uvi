@@ -13,3 +13,15 @@ How to Use vi
 :e %:h/filename
 :w
 ```
+
+从当前位置删除到文件的开头
+
+```text
+Vggx
+```
+
+从文件的开头删除的末尾
+
+```text
+VGx
+```
