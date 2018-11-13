@@ -62,3 +62,9 @@ VGx
 ```text
 :+/pattern
 ```
+
+取消文件中搜索的高亮
+
+```text
+:noh
+```
