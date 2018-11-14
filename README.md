@@ -14,6 +14,30 @@ How to Use vi
 :w
 ```
 
+## 查找替换
+
+
+用 new 替换当前行中第一个出现的 old
+```text
+:s/old/new/
+```
+
+用 new 替换当前行中所有出现的 old
+```text
+:s/old/new/g
+```
+
+用 new 替换从第 n 行到第 m 行中出现的 old
+```text
+:n,m s/old/new/g
+```
+
+用 new 替换整个文档中出现的 old
+```text
+:% s/old/new/g
+```
+## 删除
+
 从当前位置删除到文件的开头
 
 ```text
