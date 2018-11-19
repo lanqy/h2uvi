@@ -136,7 +136,7 @@ VGx
 - $ - 行尾
 - d - Ex 命令删除
 
-删除当前目录下名为 filename 的文件
+删除当前目录下名为 filename 的文件（Windows）
 
 ```text
 :!del filename
